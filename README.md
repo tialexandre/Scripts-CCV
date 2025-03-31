@@ -14,6 +14,7 @@ Executa a conexão RDP com o servidor TS, abrindo diretamente uma aplicação Re
 
 # 📁 Estrutura esperada
 script.sh
+
 .login       ← opcional, usado para autenticação automática
 
 # 🔐 Arquivo .login (opcional)
