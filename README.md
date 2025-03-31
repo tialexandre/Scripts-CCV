@@ -13,9 +13,9 @@ Lê as credenciais de acesso de um arquivo oculto .login (ou solicita manualment
 Executa a conexão RDP com o servidor TS, abrindo diretamente uma aplicação RemoteApp.
 
 # 📁 Estrutura esperada
-script.sh
+  - script.sh
 
-.login       ← opcional, usado para autenticação automática
+  - .login       ← opcional, usado para autenticação automática
 
 # 🔐 Arquivo .login (opcional)
 Se presente, deve conter:
